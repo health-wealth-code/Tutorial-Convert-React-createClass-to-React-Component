@@ -1,0 +1,13 @@
+# Git Ignore
+# -----------------------------------------------------------------------------
+
+# MacOS Files
+# -------------------------------------
+.DS_Store
+
+# Dependencies
+# -------------------------------------
+bower_components
+composer.lock
+node_modules
+package-lock.json
