@@ -2,7 +2,7 @@
 
 How to get a component written with React.createClass to work in later versions of React.
 
-This example contains code only, for full instructions visit https://mattwatson.codes/broken-react-createclass-component-lets-fix-it/ and https://mattwatson.test/converting-react-createclass-to-react-component/
+This example contains code only, for full instructions visit https://mattwatson.codes/broken-react-createclass-component-lets-fix-it/ and https://mattwatson.codes/converting-react-createclass-to-react-component/
 
 This tutorial covers three steps:
 
